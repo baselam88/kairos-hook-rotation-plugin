@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Plans a week of hooks rotating the five stock openings \u2014 call-out, their own question, contrarian, number/list promise, first-person proof \u2014 one shape per day, logged.",
+  "keywords": [
+    "hook",
+    "kairos",
+    "rotation",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-hook-rotation",
+  "repository": "https://github.com/baselam88/kairos-hook-rotation-plugin",
+  "version": "0.1.0"
+}
